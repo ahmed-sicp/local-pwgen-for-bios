@@ -24,6 +24,14 @@ Latest released version available [here][bios-pw] and latest testing version (*s
 * HP (AMI BIOS) &mdash; 8 hexadecimal digits (A code)
 * Samsung &mdash; 12, 18 or 44 hexadecimal digits
 
+## Instructions for running locally
+
+Clone the repo to a local directory:
+git clone https://github.com/ahmed-sicp/local-pwgen-for-bios/
+(Alternatively you can press the green `Code` button on the Github page and choose `Download ZIP` then extract it to a local directory.)
+
+Finally open the `index.html` file in a web browser.
+
 ## More info
 
 * http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
